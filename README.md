@@ -1,4 +1,4 @@
-👋 Hi, I'm Abdessamad (ABDOUUisHERE)
+👋 Hi, I'm Abdessamad Aguezzoul
 
 - 💻 Software Engineer | Backend Developer
 - ⚙️ Interested in DevOps, Cloud Computing & Software Architecture
