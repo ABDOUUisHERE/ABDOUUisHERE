@@ -1,6 +1,6 @@
 👋 Hi, I'm Abdessamad Aguezzoul
 
-- 💻 Software Engineer | C/C++ & Backend Development
+- 💻 Software Engineer | Backend Development
 - ⚙️ Interested in Distributed Systems, Networking & Software Architecture
 - 🚀 Exploring Cloud-Native Technologies, Microservices & DevOps
 - 🔐 Passionate about Cybersecurity, AI Agents & Secure Systems
